@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "db",
+      "type": "com.gngsn.apressbatch.config.JdbcProperties",
+      "sourceType": "com.gngsn.apressbatch.config.JdbcProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "db.driver-class",
+      "type": "java.lang.String",
+      "sourceType": "com.gngsn.apressbatch.config.JdbcProperties"
+    },
+    {
+      "name": "db.password",
+      "type": "java.lang.String",
+      "sourceType": "com.gngsn.apressbatch.config.JdbcProperties"
+    },
+    {
+      "name": "db.url",
+      "type": "java.lang.String",
+      "sourceType": "com.gngsn.apressbatch.config.JdbcProperties"
+    },
+    {
+      "name": "db.username",
+      "type": "java.lang.String",
+      "sourceType": "com.gngsn.apressbatch.config.JdbcProperties"
+    }
+  ],
+  "hints": []
+}
